@@ -15,7 +15,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
 
 ## Topics
 
-* [ ] [01. Start Your Channel](https://www.youtube.com/watch?v=LcuvxJNIgfE&list=PLpjK416fmKwQKmatriVu3rdwv7g4ZJSfD&index=1)
+* [x] [01. Start Your Channel](https://www.youtube.com/watch?v=LcuvxJNIgfE&list=PLpjK416fmKwQKmatriVu3rdwv7g4ZJSfD&index=1)
 * [ ] [02. How YouTube Works](https://www.youtube.com/watch?v=EHDDHbKd5Qo&list=PLpjK416fmKwQKmatriVu3rdwv7g4ZJSfD&index=2)
 * [ ] [03. Branding Your Channel](https://www.youtube.com/watch?v=EHDDHbKd5Qo&list=PLpjK416fmKwQKmatriVu3rdwv7g4ZJSfD&index=2)
 * [ ] [04. Choosing Your YouTube Channel Name](https://www.youtube.com/watch?v=EHDDHbKd5Qo&list=PLpjK416fmKwQKmatriVu3rdwv7g4ZJSfD&index=4)
